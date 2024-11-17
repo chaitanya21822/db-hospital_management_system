@@ -1,1 +1,3 @@
 use hims;
+
+-- AccessRights Constraints
